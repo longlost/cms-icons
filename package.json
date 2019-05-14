@@ -1,6 +1,6 @@
 {
   "name": "@spriteful/cms-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common icons specifically used by cms apps",
   "main": "cms-icons.js",
   "scripts": {
