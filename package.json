@@ -1,5 +1,5 @@
 {
-  "name": "@spriteful/cms-icons",
+  "name": "@longlost/cms-icons",
   "version": "1.0.2",
   "description": "common icons specifically used by cms apps",
   "main": "cms-icons.js",
@@ -8,24 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spriteful/cms-icons.git"
+    "url": "git+https://github.com/longlost/cms-icons.git"
   },
-  "author": "Spriteful spritefuldev@gmail.com",
+  "author": "Longlost Dev longlostdev@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spriteful/cms-icons/issues"
+    "url": "https://github.com/longlost/cms-icons/issues"
   },
-  "homepage": "https://github.com/spriteful/cms-icons#readme",
+  "homepage": "https://github.com/longlost/cms-icons#readme",
   "dependencies": {
     "@polymer/iron-iconset-svg": "^3.0.1",
-    "@polymer/polymer": "^3.1.0"
+    "@polymer/polymer": "^3.3.0"
   },
   "devDependencies": {
-    "@polymer/iron-demo-helpers": "^3.0.2",
+    "@polymer/iron-demo-helpers": "^3.1.0",
     "@polymer/test-fixture": "^4.0.2",
-    "@webcomponents/webcomponentsjs": "^2.2.7",
+    "@webcomponents/webcomponentsjs": "^2.3.0",
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "wct-mocha": "^1.0.0"
+    "mocha": "^6.2.2",
+    "wct-mocha": "^1.0.1"
   }
 }
